@@ -22,7 +22,7 @@ export default function Page() {
           <Logo size={22} />
           <span className="text-[11px] italic opacity-50" style={{ fontFamily: 'var(--font-serif)' }}>saudade</span>
         </div>
-        <a href="https://x.com/SaudadeCoin" target="_blank" rel="noopener noreferrer"
+        <a href="https://x.com/feelsaudade" target="_blank" rel="noopener noreferrer"
           className="text-[11px] font-semibold text-[var(--color-bg)] bg-[var(--color-amber)] px-4 py-1.5 rounded-full hover:bg-[var(--color-amber-dim)] transition-colors">
           Follow
         </a>
@@ -106,7 +106,7 @@ export default function Page() {
           <p className="text-sm text-[var(--color-muted)] mb-8 max-w-sm mx-auto">
             You&apos;ve always felt it. Now it has a name.
           </p>
-          <a href="https://x.com/SaudadeCoin" target="_blank" rel="noopener noreferrer"
+          <a href="https://x.com/feelsaudade" target="_blank" rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-sm font-semibold text-[var(--color-bg)] bg-[var(--color-amber)] px-6 py-3 rounded-full hover:bg-[var(--color-amber-dim)] transition-colors">
             <span>𝕏</span> Remember What Never Was
           </a>
